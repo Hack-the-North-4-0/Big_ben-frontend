@@ -1,0 +1,58 @@
+input {
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    font-family: "Carter One", cursive;
+}
+
+label {
+    color: black;
+    font-weight: bold;
+    display: block;
+    padding-bottom: 4px;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #6d99d4;
+    text-align: center;
+    font-family: "Carter One", cursive;
+    line-height: 1.35;
+}
+
+form {
+    max-width: 350px;
+    padding: 20px;
+    margin: 20px auto 0 auto;
+    text-align: left;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+form>div {
+    margin-top: 40px;
+}
+
+h1,
+p {
+    color: #eaae72;
+}
+
+p {
+    opacity: 0.7;
+}
+
+h1 {
+    margin-bottom: -8px;
+}
